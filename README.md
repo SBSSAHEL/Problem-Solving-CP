@@ -16,6 +16,7 @@ This is a personal collection of my problem-solving practice. Problems solved at
 ## 🌐 Platform
 
 - **Codeforces** - Main practice platform
+- **HackerRank** - on occasion
 
 
 
